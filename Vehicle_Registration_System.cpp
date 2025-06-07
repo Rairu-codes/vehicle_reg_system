@@ -1,7 +1,6 @@
 /*
 	Name: Vehicle_Registration_System.cpp
-	Copyright: BSCS211A
-	Author: Francis Lyle C. Belen & Cyrix Pearl Comparativo
+	Author: Francis Lyle C. Belen 
 	Date: 13/11/22 11:27
 	Description: Vehicle Registration System using Functions
 */
